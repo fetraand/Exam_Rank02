@@ -51,7 +51,7 @@ char *ft_itoa(int nbr)
 	}
 	return (str);
 }
-
+/*
 int	main(void)
 {
 	printf("Test 1 (1234) : %s\n", ft_itoa(1234));
@@ -60,3 +60,4 @@ int	main(void)
 	printf("Test 4 (MIN)  : %s\n", ft_itoa(-2147483648));
 	return (0);
 }
+*/
